@@ -1,7 +1,7 @@
 {
-  "name": "mm2",
-  "version": "1.0.0",
-  "description": "mm2: An Ionic project",
+  "name": "CAUniversity",
+  "version": "3.2.1",
+  "description": "Official Internal Training App for Common App Team Members",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-concat": "^2.2.0",

@@ -1,6 +1,6 @@
 {
-  "name": "mm2",
-  "app_id": "",
+  "name": "CAUniversity",
+  "app_id": "net.cauniversity.mobile",
   "gulpStartupTasks": [
     "build",
     "sass",

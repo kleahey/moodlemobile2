@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <name>Moodle Mobile</name>
-  <description>Official Moodle Mobile app</description>
-  <author href="http://moodle.com" email="juan@moodle.com">Juan Leyva</author>
+<widget id="net.cauniversity.mobile" version="3.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  <name>CAUniversity</name>
+  <description>Official Internal Training App for Common App Team Members</description>
+  <author href="http://www.kevinleahey.com/" email="kleahey@me.com">Kevin Leahey</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
